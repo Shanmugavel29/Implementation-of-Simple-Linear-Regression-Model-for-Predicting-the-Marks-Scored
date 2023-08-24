@@ -90,5 +90,6 @@ print("RMSE= ",rmse)
 "C:\Users\SEC\Pictures\Screenshots\Screenshot 2023-08-24 110441.png"
 ###Test set Graph
 "C:\Users\SEC\Pictures\Screenshots\Screenshot 2023-08-24 110452.png"
+
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
